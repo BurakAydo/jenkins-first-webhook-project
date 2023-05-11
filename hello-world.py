@@ -1,1 +1,1 @@
-print('Galatasaray')
+print('No Pain No Gain')
