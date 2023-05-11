@@ -1,1 +1,1 @@
-print('No Pain No Gain..Song0')
+print('No Pain No Gain')
